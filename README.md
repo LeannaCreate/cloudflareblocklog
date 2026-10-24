@@ -1,1 +1,1 @@
-# cloudflareblocklog
+# cloudflareでブロックしたデータ
