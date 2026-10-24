@@ -1,0 +1,977 @@
+[
+  {
+    "action": "block",
+    "clientASNDescription": "CV Griya Cloud Server",
+    "clientAsn": "154896",
+    "clientCountryName": "ID",
+    "clientIP": "163.52.135.197",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/.svn.zip",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:36:00Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2a4bbdd654070",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "The Constant Company, LLC",
+    "clientAsn": "20473",
+    "clientCountryName": "US",
+    "clientIP": "162.43.237.70",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/img/sys014/14.png",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:35:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2a3476c4b11ef",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/security.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:07Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d90fb0ce62c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Kaupr/1.0)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/.well-known/security.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:07Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d90d9b5789f",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Kaupr/1.0)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/favicon.ico",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d90aa69e62c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Kaupr/1.0)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ads.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d906883d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/meet-the-team",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8fdf89d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/pages/team",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8fbf6ed856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/our-team",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8faf60d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/team",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8f9f4fd856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/pages/our-story",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8f0ea0d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/pages/about",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8efe94d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/our-story",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8eee83d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/about",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8ece40d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/.well-known/gpc.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8ded4cd856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/.well-known/ucp",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8dcd25d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/.well-known/ai-plugin.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8d7cc1d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/llms.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8bbaa0d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/robots.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8b7a51d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "DigitalOcean, LLC",
+    "clientAsn": "14061",
+    "clientCountryName": "GB",
+    "clientIP": "167.172.53.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:31:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29d8ac973d856",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "M247 Europe SRL",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "146.70.40.70",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/shop/wp-includes/wlwmanifest.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:30:38Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29ce05e3dd5b8",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "M247 Europe SRL",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "146.70.40.70",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/news/wp-includes/wlwmanifest.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:30:38Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29cdfce13d5b8",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "M247 Europe SRL",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "146.70.40.70",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/website/wp-includes/wlwmanifest.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:30:38Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29cdf6df0d5b8",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "M247 Europe SRL",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "146.70.40.70",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/blog/wp-includes/wlwmanifest.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:30:38Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29cdeddced5b8",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "M247 Europe SRL",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "146.70.40.70",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:30:38Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b29cdeadaad5b8",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "zoneVersion": 0
+  }
+]

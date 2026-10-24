@@ -1,0 +1,5579 @@
+[
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/userfiles/x",
+    "clientRequestQuery": "?path=../../.env",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:24Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d703e03860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/userfiles",
+    "clientRequestQuery": "?path=../../../.env",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:23Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d6e1bdc860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/document.php",
+    "clientRequestQuery": "?modulepart=systemtools&file=../conf/conf.php&hashp=shared",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:23Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d6be9e9860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/w/admins/jobs_u/get_log_file/../../../../proc/self/environ",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:23Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d6be9e0860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/compose.yaml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:23Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d6bc9cf860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 2,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/dashboard%2F.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:23Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d6a1802860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/settings%2F.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:23Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d6a0ffc860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/app/..;/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d685e96860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/....//....//....//..../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d685e90860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/.env/public/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d685e81860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/..;/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d681e54860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Meta-ExternalAgent/1.0; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/static/..;/..;/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d67fe4f860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Meta-ExternalFetcher/1.0; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/static//app/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d67fe49860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/static//home/user/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d67fe44860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/static//.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d67fe40860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; DeepSeekBot/1.0; +https://www.deepseek.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/css../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:22Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d666cc5860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/files../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e7d860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Bravebot/1.0; +https://brave.com/search/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/assets../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e79860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Meta-WebIndexer/1.0; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/dist../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e76860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/static../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e73860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "DuckAssistBot/1.1 (https://duckduckgo.com/duckassistbot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/prisma/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e71860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Meta-WebIndexer/1.0; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/images../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e6d860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; GrokBot/1.0; +https://x.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/img../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e65860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.terraform.rc",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e61860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/media../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f5e5e860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; DeepSeekBot/1.0; +https://www.deepseek.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/js../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5f4e4d860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/uploads../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:21Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5ddd07860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/docker-compose.override.yml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d538aa8860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Meta-WebIndexer/1.0; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/*.auto.tfvars",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d538a9e860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/terraform.tfvars",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d537a95860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.dockercfg",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d533a66860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; GrokBot/1.0; +https://x.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/config/.env.production",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d533a5d860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; cohere-ai; +https://cohere.com/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env_secret",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d527994860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.docker/secrets.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5198c4860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/config/.env.dev",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d5198c2860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; MoonshotBot/1.0; +https://kimi.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/localhost.key",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:19Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d506f8d860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 4,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.docker/config.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4eadd4860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.github/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4e9dd1860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Qwenbot/1.0; +https://qwen.alibaba.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.svn/entries",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4e8db5860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ssl/localhost.key",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4d0c54860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 2,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/privatekey.key",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4cfc4c860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/private-key",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4cfc4a860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/id_rsa",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4cfc40860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; YouBot/1.0; +https://you.com/bot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ssl/server.key",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4cfc3c860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Meta-WebIndexer/1.0; +https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/host.key",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4cec2f860d",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 2,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (compatible; Hunyuan/1.0; +https://hunyuan.tencent.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env_1",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4c3b7b860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/conf/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4b8acb860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/portal/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d49b8fa860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; DeepSeekBot/1.0; +https://www.deepseek.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/shared/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4998c8860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/shop/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:18Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d4998ba860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Bravebot/1.0; +https://brave.com/search/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/panel/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d49789d860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/common/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d496890860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; DeepSeekBot/1.0; +https://www.deepseek.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ml/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d47feb8860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "DuckAssistBot/1.1 (https://duckduckgo.com/duckassistbot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/data/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d47feb6860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api-docs",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d472e05860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/admin/users",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d462cb9860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/settings/api-keys",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d461cac860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api-keys",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d461ca7860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/dashboard/billing",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d461c99860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/v1/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d440a75860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/admin",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43ea5b860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/agents/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43ea56860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/chatbot/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43ea51860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; cohere-ai; +https://cohere.com/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/infra/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43ea50860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; KimiBot/1.0; +https://kimi.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/agent/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43ea4e860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Bravebot/1.0; +https://brave.com/search/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/user/login",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43ba1c860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/dashboard",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43aa09860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/bot/.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:17Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d43aa01860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/orders/..%2f..%2f.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:16Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d401dee860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Hunyuan/1.0; +https://hunyuan.tencent.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/data/..%2f..%2f.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:16Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d3fddb7860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/%2Fsettings",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:16Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d3f7d77860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env.production::$DATA",
+    "clientRequestQuery": "?raw",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:15Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d374d99860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env.local",
+    "clientRequestQuery": "?.svg?.wasm?init",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:15Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d374d93860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/_nuxt/../.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:15Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d374d91860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; KimiBot/1.0; +https://kimi.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env.development::$DATA",
+    "clientRequestQuery": "?raw",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:15Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d374d8e860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/root/.env",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:15Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d371d57860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env",
+    "clientRequestQuery": "?import&raw",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d369ce4860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Qwenbot/1.0; +https://qwen.alibaba.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env",
+    "clientRequestQuery": "?import&url&inline",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d367cc8860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/__vite_rsc_findSourceMapURL",
+    "clientRequestQuery": "?filename=file:///proc/self/environ&environmentName=rsc",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d360c51860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; MoonshotBot/1.0; +https://kimi.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/__vite_rsc_findSourceMapURL",
+    "clientRequestQuery": "?filename=file:///root/.aws/credentials&environmentName=rsc",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d360c4a860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; cohere-ai; +https://cohere.com/crawler)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/var/run/secrets/kubernetes.io/serviceaccount/token",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d360c44860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/__vite_rsc_findSourceMapURL",
+    "clientRequestQuery": "?filename=file:///root/.ssh/id_rsa&environmentName=rsc",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d360c3f860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/../.env",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d357bb1860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/home/ubuntu/.aws/credentials",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d34cb18860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.4; +https://openai.com/gptbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/app/.env",
+    "clientRequestQuery": "?import&raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d34aaf8860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; KimiBot/1.0; +https://kimi.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252fproc/self/environ",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d348ad9860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Qwenbot/1.0; +https://qwen.alibaba.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "www.leannacreate.jp",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "POST",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/v1/graphql",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d333998860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/..%252f..%252f..%252f..%252f..%252froot/.env",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d331986860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; ChatGLM-Spider/1.0; +https://zhipuai.cn/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.env.config",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d32e931860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Qwenbot/1.0; +https://qwen.alibaba.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.config/gcloud/application_default_credentials.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:14Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d32a8eb860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Kimi-SearchBot/1.0; +https://kimi.ai/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/@fs/app/.env",
+    "clientRequestQuery": "?raw??",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:13Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d2bf876860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "www.leannacreate.jp",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "POST",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/api/graphql",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:13Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d2b9830860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.cargo/credentials.toml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:13Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d2a4eed860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; DeepSeekBot/1.0; +https://www.deepseek.com/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.azure/accessTokens.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:13Z",
+    "description": "Manage AI bots",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "40"
+      },
+      {
+        "key": "version",
+        "value": "26"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d2a4ee9860d",
+    "ref": "ai-bots-block",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "sampleInterval": 2,
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.ssh/id_rsa",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:12Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d2a2ed3860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 6,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; ChatGLM-Spider/1.0; +https://zhipuai.cn/)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "www.leannacreate.jp",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "POST",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/graphql",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:12Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d2a0ebe860d",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 2,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "396982",
+    "clientCountryName": "SG",
+    "clientIP": "34.87.146.33",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/.vite/manifest.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:39:12Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c00d26bbc1860d",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:58Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c004059d2fd50a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:58Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c004056c92f719",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/feed/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:57Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003fe789ba2e9",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/feed/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:57Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003fdbc9f9e7b",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-links-opml.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:56Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003fafb167531",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-links-opml.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:56Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003fa5ee28634",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "?rest_route=/",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:56Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003f6dd38701c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-json/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:54Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003ef7d98bb6c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-json/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:54Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003ef7c4cd139",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:54Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003ed9a47986b",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; wpdetect/1.0; CMS technology survey)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:54Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003ed69f4fefb",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; wpdetect/1.0; CMS technology survey)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:54Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e9bca7bb24",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:53Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e8b916565a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:53Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e4dcbcd13a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/feed/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:53Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e478f688c5",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-links-opml.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:53Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e369905ce6",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "?rest_route=/",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:52Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e2dd8cebb2",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-json/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:52Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003e16b94237d",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "OVH SAS",
+    "clientAsn": "16276",
+    "clientCountryName": "FR",
+    "clientIP": "54.37.156.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:32:52Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4c003de9e12351d",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "VPS Dedicated LLC",
+    "clientAsn": "197769",
+    "clientCountryName": "SI",
+    "clientIP": "102.220.161.89",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "sds.leannacreate.jp:443",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:16:03Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfeb3caee50f02",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Google LLC",
+    "clientAsn": "15169",
+    "clientCountryName": "TW",
+    "clientIP": "66.249.82.198",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/.well-known/traffic-advice",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:15:01Z",
+    "description": "BLOCK URL PATH",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "6"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfe9bc5bb04bd7",
+    "ref": "",
+    "ruleId": "67df5c6a04a945a2b1a2641aebfc9dd0",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Chrome Privacy Preserving Prefetch Proxy",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "SEMrush CY LTD",
+    "clientAsn": "209366",
+    "clientCountryName": "US",
+    "clientIP": "185.191.171.6",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/sys024.html",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:13:43Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfe7d34e7e990a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "SEMrush CY LTD",
+    "clientAsn": "209366",
+    "clientCountryName": "US",
+    "clientIP": "85.208.96.208",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/robots.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:13:43Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfe7d10d5ce3c4",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "CV Griya Cloud Server",
+    "clientAsn": "154896",
+    "clientCountryName": "ID",
+    "clientIP": "163.52.135.4",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-includes/js/jquery/jquery.js",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:05:02Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfdb1cfee8fc0c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "CV Griya Cloud Server",
+    "clientAsn": "154896",
+    "clientCountryName": "ID",
+    "clientIP": "163.52.135.4",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/media/system/js/core.js",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T14:05:02Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfdb1c8cf7fc0c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "TechTies Inc.",
+    "clientAsn": "197170",
+    "clientCountryName": "NL",
+    "clientIP": "91.92.47.82",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:52:55Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfc958bee09f94",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe265df34a4a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/media/vendor/jquery/js/jquery.min.js",
+    "clientRequestQuery": "?3.6.0",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe262da14a4a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/media/jui/js/bootstrap.min.js",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe25fd6f4a4a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/media/system/js/core.js",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe25dd1a4a4a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/administrator/components/com_jce/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe25acd74a4a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/plugins/editors/jce/jce.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe256c6a4a4a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "www.google.com",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "?rest_route=/",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:45:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbe24aba2b859",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "FranTech Solutions",
+    "clientAsn": "53667",
+    "clientCountryName": "US",
+    "clientIP": "209.141.34.121",
+    "clientRefererHost": "www.google.com",
+    "clientRequestHTTPHost": "fire.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:44:33Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbd1ae999fb2e",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Amazon.com, Inc.",
+    "clientAsn": "16509",
+    "clientCountryName": "SG",
+    "clientIP": "47.128.21.111",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/robots.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:43:01Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bfbadb9fae1581",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "KDDI CORPORATION",
+    "clientAsn": "2516",
+    "clientCountryName": "JP",
+    "clientIP": "240b:10:5f23:d200:c995:1abe:d7dc:fa8d",
+    "clientRefererHost": "www.leannacreate.jp",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/3",
+    "clientRequestPath": "/img/favicon.ico",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:16:07Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf9374ab892404",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "KDDI CORPORATION",
+    "clientAsn": "2516",
+    "clientCountryName": "JP",
+    "clientIP": "240b:10:5f23:d200:c995:1abe:d7dc:fa8d",
+    "clientRefererHost": "www.leannacreate.jp",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/3",
+    "clientRequestPath": "/img/external_link.png",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:16:06Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf936ee82a2404",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "KDDI CORPORATION",
+    "clientAsn": "2516",
+    "clientCountryName": "JP",
+    "clientIP": "240b:10:5f23:d200:c995:1abe:d7dc:fa8d",
+    "clientRefererHost": "www.leannacreate.jp",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/3",
+    "clientRequestPath": "/img/bak_h45.png",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:16:06Z",
+    "description": "Rate Limit: High-Frequency Bot Block",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "10"
+      },
+      {
+        "key": "version",
+        "value": "10"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf936ee8292404",
+    "ref": "",
+    "ruleId": "abc6d2b9cb8b4b75baa41d3279633fa9",
+    "rulesetId": "f7834038832e4dceae90d0963b84fcf1",
+    "sampleInterval": 1,
+    "source": "ratelimit",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Amazon.com, Inc.",
+    "clientAsn": "16509",
+    "clientCountryName": "SG",
+    "clientIP": "47.128.39.66",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/robots.txt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:04:17Z",
+    "description": "BLOCK URL PATH2",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "5"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf821dffe77d93",
+    "ref": "",
+    "ruleId": "1864a45543584690972d324c7c36e955",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/7.0 Mobile Safari/537.36 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "TECHOFF SRV LIMITED",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "195.178.110.18",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:02:40Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf7fc22e0a06c8",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "TECHOFF SRV LIMITED",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "195.178.110.18",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "unno.leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T13:02:40Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf7fc00e8b796e",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Clouvider",
+    "clientAsn": "62240",
+    "clientCountryName": "US",
+    "clientIP": "91.193.232.58",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T12:59:16Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf7ac48bf9068f",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "CHINA UNICOM China169 Backbone",
+    "clientAsn": "4837",
+    "clientCountryName": "CN",
+    "clientIP": "121.29.51.109",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T12:23:11Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf45e969b5090a",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9.0; ZTE BA520 Build/MRA58K)",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "CHINA UNICOM China169 Backbone",
+    "clientAsn": "4837",
+    "clientCountryName": "CN",
+    "clientIP": "121.29.51.109",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T12:11:35Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf34eabe61cb96",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES) AppleWebKit/525.13 (KHTML, like Gecko) Version/3.1 Safari/525.13",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "CHINA UNICOM China169 Backbone",
+    "clientAsn": "4837",
+    "clientCountryName": "CN",
+    "clientIP": "121.29.51.109",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T12:08:52Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf30effa68f8cf",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.27 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/601.1.27",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "CHINA UNICOM China169 Backbone",
+    "clientAsn": "4837",
+    "clientCountryName": "CN",
+    "clientIP": "121.29.51.109",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/favicon.ico",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-17T12:01:38Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "140"
+      },
+      {
+        "key": "version",
+        "value": "51"
+      },
+      {
+        "key": "configuration_id",
+        "value": "890751726"
+      }
+    ],
+    "rayName": "a4bf26593c96cc65",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 1,
+    "source": "firewallCustom",
+    "userAgent": "Dalvik/2.1.0 (Linux; U; Android 9.0; ZTE BA520 Build/MRA58K)",
+    "zoneVersion": 0
+  }
+]

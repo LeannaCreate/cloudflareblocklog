@@ -1,0 +1,1445 @@
+[
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%2f%2egit%2fdescription",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:06Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27774ff8ef1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252fsystem%252f.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:05Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277716d41f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252froot%252f%252enetrc",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:05Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2776f6c16f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252fdocker-compose%252f.env",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:04Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2776b8a34f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252fconfig%252fsettings%252fproduction.py",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:04Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2776a79a8f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252fadmin%252fphp-info.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:03Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277660eadf1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252f_next%252fserver%252fmiddleware-manifest.json",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:03Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277644db2f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 22,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252f%252ewell-known%252fstripe%252etxt",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:02Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277613bb4f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%252f%252egithub",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:02Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277607b44f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 10,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/api/node/config%2ejs",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27759ff34f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/api/constant%2ejs",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27759ef28f1ac",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/admin/config",
+    "clientRequestQuery": "?cmd=cat%20/root/%2eaws/credentials",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277596d0f697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/admin/config/database%2ejs",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277595d09697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/admin%2ehtml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277570b81697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 22,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/dnscfg%2ecgi",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27756db6d697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 22,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/oauth/*",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:01Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277556a91697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%2egitlab-ci",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:05:00Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277507fbc697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/s3%2eproperties",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:59Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2774d5d9b697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 4,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/var/task/next%2econfig%2ets",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:59Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2774aec02697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 3,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/test%2esh",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:59Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27749fb39697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/test/index%2ephp",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:59Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277492abf697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 22,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/config%2ets",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:58Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27747ea14697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-content/backups/wordpress%2esql",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:57Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277415e03697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/vendor/drupal/coder/%2egit/objects/info",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:57Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2773f6cc8697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/api/admin/user/password",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:57Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2773e2bf4697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-config%2ephp%2eorig",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:57Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2773dcbb8697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/static/js/main%2e8c18b542%2ejs",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:55Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27734eda1697c",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 22,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/server/config/%2eenv",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:55Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2773239956f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/logging/%2eenv",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:54Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2772afbae6f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/HUNIV_migration/%2eenv",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:53Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b2772899f86f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/demo/%2eenv",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:53Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27723de196f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/config%2ejs",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:52Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277226ce96f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/new/%2eenv%2eproduction",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:51Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27719be2e6f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/laravel/%2eenv",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:51Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277189d516f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 10,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/src/%2eenv",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:51Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277178c596f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 10,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/%2ejenv-version",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:51Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b277170beb6f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "Bucklog SARL",
+    "clientAsn": "211590",
+    "clientCountryName": "FR",
+    "clientIP": "185.177.72.100",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "leannacreate.jp",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/test/info%2ephp",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-10-15T23:04:50Z",
+    "description": "BLOCK ASN LIST",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "139"
+      },
+      {
+        "key": "version",
+        "value": "50"
+      },
+      {
+        "key": "configuration_id",
+        "value": "888165146"
+      }
+    ],
+    "rayName": "a4b27714a9f86f79",
+    "ref": "",
+    "ruleId": "3ea5b2436490495ea4625e843e9fa3ee",
+    "rulesetId": "485e9c68d0b741199b080c0fcfee54f8",
+    "sampleInterval": 110,
+    "source": "firewallCustom",
+    "userAgent": "curl/8.7.1",
+    "zoneVersion": 0
+  }
+]
